@@ -2,8 +2,8 @@
 <h3 align="center">I love to explore different tech fields and java is my 🤍</h3>
 
 <br>
-<br>
-- 🌱 I’m currently learning Tailwind, Kotlin and Javascript 
+
+- 🌱 I’m currently learning **Tailwind, Kotlin and Javascript** 
 
 - 📫 How to reach me: **soumyamns002@gmail.com**
 
