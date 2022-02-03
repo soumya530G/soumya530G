@@ -27,5 +27,5 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya530g&show_icons=true&locale=en&layout=compact" alt="soumya530g" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soumya530g&show_icons=true&locale=en" alt="soumya530g" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya530g&" alt="soumya530g" /></p>
 
