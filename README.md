@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Soumya Gupta</h1>
-<h3 align="center">I love to explore different tech fields and java is my 🤍</h3>
+<h1 align="center">Hi👋, I'm Soumya Gupta</h1>
+<h3 align="center">I love to explore different tech fields!</h3>
 
 - 🔭 I’m currently working full-time as an Associate Engineer at PricewaterhouseCoopers (PWC) India. 
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **soumyamns002@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/13yLZhE3SWzhp-THY7wqFrAzlSICDFiwW/view?usp=sharing](https://drive.google.com/file/d/1WWgjcMkA2tXpgeYXPMgzTpeW9OOCzNoz/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WWgjcMkA2tXpgeYXPMgzTpeW9OOCzNoz/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a textrovert**
 
