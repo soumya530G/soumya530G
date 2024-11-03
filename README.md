@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Soumya Gupta</h1>
 <h3 align="center">I love to explore different tech fields and java is my 🤍</h3>
 
-- 🔭 I’m currently working on [Road Safety](https://github.com/soumya530G/Road-safety)
+- 🔭 I’m currently working full-time as an Associate Engineer at PricewaterhouseCoopers (PWC) India. 
 
-- 🌱 I’m currently learning **ml5.js and Python**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [https://www.scaler.com/topics/](https://www.scaler.com/topics/)
+- 📝 I regularly write articles on [ScalarTopics](https://www.scaler.com/topics/) and [SigNoz](https://signoz.io/resource-center/)
 
 - 📫 How to reach me **soumyamns002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13yLZhE3SWzhp-THY7wqFrAzlSICDFiwW/view?usp=sharing](https://drive.google.com/file/d/13yLZhE3SWzhp-THY7wqFrAzlSICDFiwW/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/13yLZhE3SWzhp-THY7wqFrAzlSICDFiwW/view?usp=sharing](https://drive.google.com/file/d/1WWgjcMkA2tXpgeYXPMgzTpeW9OOCzNoz/view?usp=sharing))
 
 - ⚡ Fun fact **I'm a textrovert**
 
